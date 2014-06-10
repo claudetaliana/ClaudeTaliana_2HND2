@@ -73,7 +73,7 @@ function OnGUI()
 }
 
 function Start () {
-	lives=10;
+	lives=7;
 	score=0;
 	shield = false;
 }
